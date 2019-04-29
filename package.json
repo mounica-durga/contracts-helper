@@ -1,0 +1,18 @@
+{
+  "name": "@_mon/contracts-helper",
+  "version": "2.0.0",
+  "description": "Fetches allowances, balances, funded status for multiple accounts in a single contract call",
+  "license": "MIT",
+  "repository": "mounica-durga/contracts-helper",
+  "main": "index.js",
+  "keywords": [
+    "contracts-helper",
+    "npm",
+    "package",
+    "_mon",
+    "zpx"
+  ],
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  }
+}
