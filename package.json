@@ -1,6 +1,6 @@
 {
   "name": "@_mon/contracts-helper",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Fetches allowances, balances, funded status for multiple accounts in a single contract call",
   "license": "MIT",
   "repository": "mounica-durga/contracts-helper",
